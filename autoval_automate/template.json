@@ -1,0 +1,11 @@
+{
+    "inputParams": [
+
+       ],
+     "arrayParams":[
+      {"name":"arr1","data_type":"int","lower_limit":1,"upper_limit":6,"length":3}
+     ],
+     "outputParam": {"type":"int"},
+     "goldenSolution": {"fname":"golden_solution"},
+     "studentSolution": {"fname":"student_solution"}
+ }  
